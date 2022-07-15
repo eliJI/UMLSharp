@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmlSharpWebApp", "UmlSharpWebApp\UmlSharpWebApp.csproj", "{87614D76-045A-477D-AE51-667E4BB052E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Packer", "..\Packer\Packer\Packer.csproj", "{BB485D7E-4874-419C-9167-C64726D71C2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Packer\Test\Test.csproj", "{80F8A1B1-910E-4265-945C-B0FF4A17F68E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87614D76-045A-477D-AE51-667E4BB052E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87614D76-045A-477D-AE51-667E4BB052E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87614D76-045A-477D-AE51-667E4BB052E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87614D76-045A-477D-AE51-667E4BB052E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB485D7E-4874-419C-9167-C64726D71C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB485D7E-4874-419C-9167-C64726D71C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB485D7E-4874-419C-9167-C64726D71C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB485D7E-4874-419C-9167-C64726D71C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F8A1B1-910E-4265-945C-B0FF4A17F68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F8A1B1-910E-4265-945C-B0FF4A17F68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F8A1B1-910E-4265-945C-B0FF4A17F68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F8A1B1-910E-4265-945C-B0FF4A17F68E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
